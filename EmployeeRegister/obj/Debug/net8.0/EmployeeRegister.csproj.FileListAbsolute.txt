@@ -1,0 +1,15 @@
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\bin\Debug\net8.0\EmployeeRegister.exe
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\bin\Debug\net8.0\EmployeeRegister.deps.json
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\bin\Debug\net8.0\EmployeeRegister.runtimeconfig.json
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\bin\Debug\net8.0\EmployeeRegister.dll
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\bin\Debug\net8.0\EmployeeRegister.pdb
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.AssemblyInfoInputs.cache
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.AssemblyInfo.cs
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.csproj.CoreCompileInputs.cache
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.sourcelink.json
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.dll
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\refint\EmployeeRegister.dll
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.pdb
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\EmployeeRegister.genruntimeconfig.cache
+D:\Course Pushed\CourseProjects\EmployeeRegister\EmployeeRegister\obj\Debug\net8.0\ref\EmployeeRegister.dll
